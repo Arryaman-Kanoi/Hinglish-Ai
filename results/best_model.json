@@ -1,0 +1,5 @@
+{
+  "model": "hingbert",
+  "path": "results/checkpoints/best",
+  "hf_name": "l3cube-pune/hing-bert"
+}

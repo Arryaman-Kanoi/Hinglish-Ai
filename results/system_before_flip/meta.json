@@ -1,0 +1,6 @@
+{
+  "lexicon_words": 1738,
+  "neutral_margin": 0.1,
+  "val_macro_f1_at_margin": 0.635218987283884,
+  "fit_on": "character model and lexicon on train; stacker and margin on validation"
+}

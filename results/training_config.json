@@ -1,0 +1,23 @@
+{
+  "seeds": [
+    42,
+    100,
+    2024
+  ],
+  "seeds_note": "HingBERT uses three seeds. mBERT, MuRIL, IndicBERTv2, and XLM-RoBERTa use seed 42.",
+  "max_len": 64,
+  "subword_p95_mbert": 52.0,
+  "fraction_over_max_len_in_sample": 0.008,
+  "hardware": {
+    "batch_size": 2,
+    "grad_accum": 8,
+    "fp16": true,
+    "optim_name": "adamw_bnb_8bit",
+    "max_len_cap": 96,
+    "device": "NVIDIA GeForce RTX 2050",
+    "vram_gb": 4.0
+  },
+  "official_split": "SemEval-2020 Task 9 Hinglish, Zenodo 3974927",
+  "test_used_for": "final evaluation only; learning rate chosen on validation",
+  "learning_rate": 2e-05
+}

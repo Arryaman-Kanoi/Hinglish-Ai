@@ -1,0 +1,234 @@
+{
+  "train": {
+    "split": "train",
+    "n": 13849,
+    "class_counts": {
+      "neutral": 5221,
+      "positive": 4575,
+      "negative": 4053
+    },
+    "avg_tokens": 26.085637952198713,
+    "median_tokens": 28.0,
+    "p95_tokens": 34.0,
+    "avg_chars": 122.18694490576937,
+    "devanagari_char_share": 0.000747494257389008,
+    "emoji_tweet_share": 0.1912773485450213,
+    "url_tweet_share": 0.5513033432016752,
+    "mention_tweet_share": 0.804390208679327,
+    "cmi_mean": 29.783090991728926,
+    "cmi_median": 28.57142857142857,
+    "cmi_pct_mixed": 0.9999277926204058
+  },
+  "validation": {
+    "split": "validation",
+    "n": 2993,
+    "class_counts": {
+      "neutral": 1124,
+      "positive": 981,
+      "negative": 888
+    },
+    "avg_tokens": 26.223855663214167,
+    "median_tokens": 28.0,
+    "p95_tokens": 34.0,
+    "avg_chars": 122.90544604076177,
+    "devanagari_char_share": 0.0005343336250053792,
+    "emoji_tweet_share": 0.18910791847644504,
+    "url_tweet_share": 0.5649849649181423,
+    "mention_tweet_share": 0.8105579685933846,
+    "cmi_mean": 29.962334283388838,
+    "cmi_median": 28.57142857142857,
+    "cmi_pct_mixed": 1.0
+  },
+  "test": {
+    "split": "test",
+    "n": 3000,
+    "class_counts": {
+      "neutral": 1100,
+      "positive": 1000,
+      "negative": 900
+    },
+    "avg_tokens": 26.121,
+    "median_tokens": 28.0,
+    "p95_tokens": 34.0,
+    "avg_chars": 125.23133333333334,
+    "devanagari_char_share": 0.0,
+    "emoji_tweet_share": 0.065,
+    "url_tweet_share": 0.532,
+    "mention_tweet_share": 0.8143333333333334,
+    "cmi_mean": 29.708669897984937,
+    "cmi_median": 28.57142857142857,
+    "cmi_pct_mixed": 1.0
+  },
+  "all": {
+    "split": "all",
+    "n": 19842,
+    "class_counts": {
+      "neutral": 7445,
+      "positive": 6556,
+      "negative": 5841
+    },
+    "avg_tokens": 26.111833484527768,
+    "median_tokens": 28.0,
+    "p95_tokens": 34.0,
+    "avg_chars": 122.75561939320633,
+    "devanagari_char_share": 0.0006022462480547936,
+    "emoji_tweet_share": 0.17185767563753654,
+    "url_tweet_share": 0.5504485434935994,
+    "mention_tweet_share": 0.8068239088801532,
+    "cmi_mean": 29.798876290121537,
+    "cmi_median": 28.57142857142857,
+    "cmi_pct_mixed": 0.9999496018546518
+  },
+  "top_words": {
+    "negative": [
+      [
+        "https",
+        3490
+      ],
+      [
+        "nahi",
+        1637
+      ],
+      [
+        "nhi",
+        503
+      ],
+      [
+        "bjp",
+        503
+      ],
+      [
+        "tum",
+        453
+      ],
+      [
+        "koi",
+        453
+      ],
+      [
+        "kar",
+        407
+      ],
+      [
+        "kya",
+        381
+      ],
+      [
+        "log",
+        362
+      ],
+      [
+        "modi",
+        360
+      ],
+      [
+        "pakistan",
+        298
+      ],
+      [
+        "teri",
+        295
+      ]
+    ],
+    "neutral": [
+      [
+        "https",
+        4056
+      ],
+      [
+        "nahi",
+        1574
+      ],
+      [
+        "bjp",
+        489
+      ],
+      [
+        "koi",
+        474
+      ],
+      [
+        "modi",
+        445
+      ],
+      [
+        "sir",
+        428
+      ],
+      [
+        "aap",
+        420
+      ],
+      [
+        "nhi",
+        417
+      ],
+      [
+        "kya",
+        350
+      ],
+      [
+        "kar",
+        317
+      ],
+      [
+        "india",
+        308
+      ],
+      [
+        "log",
+        270
+      ]
+    ],
+    "positive": [
+      [
+        "https",
+        3455
+      ],
+      [
+        "love",
+        735
+      ],
+      [
+        "sir",
+        674
+      ],
+      [
+        "modi",
+        597
+      ],
+      [
+        "aap",
+        584
+      ],
+      [
+        "good",
+        570
+      ],
+      [
+        "narendramodi",
+        536
+      ],
+      [
+        "all",
+        520
+      ],
+      [
+        "happy",
+        512
+      ],
+      [
+        "nahi",
+        509
+      ],
+      [
+        "best",
+        476
+      ],
+      [
+        "bahut",
+        458
+      ]
+    ]
+  }
+}

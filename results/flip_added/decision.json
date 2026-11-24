@@ -1,0 +1,12 @@
+{
+  "kept": true,
+  "holdout_current_macro_f1": 0.6234049650699167,
+  "holdout_added_macro_f1": 0.6219187235395577,
+  "holdout_current_negation_macro_f1": 0.41390072360857505,
+  "holdout_added_negation_macro_f1": 0.4264661245929579,
+  "negation_gain": 0.012565400984382857,
+  "extra_rows": 1426,
+  "where": "character model training rows. HingBERT weights are unchanged.",
+  "test_scored": true,
+  "neutral_margin": 0.08
+}

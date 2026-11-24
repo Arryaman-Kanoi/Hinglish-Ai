@@ -1,0 +1,4 @@
+split,n,negation,contrast,scope_conflict,surface_disagrees_with_gold,scope_explains_disagreement,residual_unexplained,praise_no_flip,praise_cue,echo,tag_na
+train,13849,4124,637,1066,1190,164,1026,7875,495,7,16
+val,2993,942,138,264,281,42,239,1645,103,1,2
+test,3000,885,157,248,200,32,168,1708,2,4,6

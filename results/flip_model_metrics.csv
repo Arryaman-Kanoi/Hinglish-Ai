@@ -1,0 +1,2 @@
+model,kept,extra_rows,val_macro_f1_before,val_macro_f1_after,val_negation_macro_f1_before,val_negation_macro_f1_after,negation_gain,base_learning_rate,continuation_learning_rate,epochs,test_macro_f1
+hingbert_flip,False,1426,0.6618645609648071,0.6556493599689474,0.5657247022361611,0.548663826978805,-0.017060875257356112,2e-05,1e-05,1,

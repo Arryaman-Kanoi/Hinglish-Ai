@@ -1,0 +1,34 @@
+# Install the CUDA wheel before this file, or pip will pull a different torch:
+#   .\.venv\Scripts\python.exe -m pip install torch --index-url https://download.pytorch.org/whl/cu128
+# Then: .\.venv\Scripts\python.exe -m pip install -r requirements.txt --upgrade-strategy only-if-needed
+transformers>=4.46.0
+datasets>=2.14.0
+accelerate>=0.24.0
+evaluate>=0.4.0
+bitsandbytes>=0.45.0
+
+# Scientific computing & Machine Learning
+scikit-learn>=1.3.0
+numpy>=1.24.0
+pandas>=2.0.0
+scipy>=1.10.0
+
+# Text Preprocessing & Linguistics
+emoji>=2.8.0
+regex>=2023.10.3
+nltk>=3.8.1
+
+# Visualization & Reporting
+matplotlib>=3.7.0
+seaborn>=0.12.0
+
+# Interactive UI Demo
+gradio>=4.0.0
+
+# Utilities
+tqdm>=4.66.0
+pyyaml>=6.0.1
+
+# Report and slides, written from results/metrics.csv
+python-docx>=1.1.0
+python-pptx>=0.6.21

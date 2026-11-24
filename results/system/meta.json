@@ -1,0 +1,7 @@
+{
+  "lexicon_words": 1738,
+  "neutral_margin": 0.08,
+  "val_macro_f1_before_flip": 0.635218987283884,
+  "fit_on": "character model refit on train plus 1426 mechanical-flip rows; lexicon unchanged; stacker and margin refit on validation",
+  "flip_rows_added": 1426
+}

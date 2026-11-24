@@ -1,0 +1,4 @@
+model,lr,val_macro_f1,val_accuracy,train_seconds,optim
+hingbert,2e-05,0.6600587242583041,,1235.0473904999672,adamw_bnb_8bit
+hingbert,3e-05,0.6588041597547526,,1407.208468799945,adamw_bnb_8bit
+hingbert,5e-05,0.6404408224387023,,1218.5668594000163,adamw_bnb_8bit

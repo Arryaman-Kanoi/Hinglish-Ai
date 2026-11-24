@@ -1,0 +1,20 @@
+{
+  "kept": false,
+  "reason": "Holdout did not show a flip-slice gain without losing overall macro-F1. The layer is not in the demo.",
+  "fit_rows": 2095,
+  "holdout_rows": 898,
+  "forward_window": 3,
+  "backward_window": 2,
+  "holdout_flip_macro_f1": 0.6119343935043594,
+  "holdout_system_macro_f1": 0.6234049650699167,
+  "holdout_negation_gain": -0.01252341979224686,
+  "holdout_contrast_gain": 0.01602568124307252,
+  "holdout_echo_gain": null,
+  "holdout_scope_conflict_gain": -0.030040150482562977,
+  "scope_words_added": {
+    "acha": 0.5260930958967791
+  },
+  "sarcasm_label": "none. SentiMix does not annotate sarcasm. The praise cue is a feature, not a class.",
+  "test_protocol": "scored once after the holdout decision",
+  "system_holdout_note": "The current system stacker was fit on all validation rows, so its holdout score is optimistic."
+}

@@ -1,0 +1,51 @@
+index,text,true_label,predicted_label,confidence,linguistic_cause
+108,Sab free kar dete hai sir sab bheekh maang kar jeeyege https://t.co/8vHkWztg9b,negative,positive,0.4498,Complex Code-Switching / Mixed Sentiment
+21,@asifnkhan08 @SAUMEN _ BANERJ _ E @JhaSanjay Time and circumstances ke sath jo change nhi hota vo sabse bada bewakuf ho â€¦ https://t.co/GPIt7Q9zJx,negative,neutral,0.4415,Hindi Negation (Missed Polarity Flip)
+1,logon ko alloo pyaz tomator me toh allah pak ka naam nazar aa jata hai pr aankhon k samne allah pak ke bande nazar â€¦ https://t.co/hBg7zS0viy,neutral,positive,0.3885,Neutral-Sentiment Ambiguity
+18,@ravindraj12 @TarekFatah Yarr India me aise log b hain??? Life me 1st time India ka koi banda Positive dekha Appreciate u bro ðŸ‡µðŸ‡°â¤ðŸ‡®ðŸ‡³,positive,neutral,0.5877,Spelling Variation / Character Elongation
+180,#ModiSarkaar2 ka abhi se satya naas?? India no longer world's fastest-growing economy https://t.co/bB3nYS3qBM,negative,positive,0.3416,Complex Code-Switching / Mixed Sentiment
+40,RT @tarani07615489 @PoliceRajasthan corruption ki complain pe aap dhayan Kyu nahi dete? Mene 2 baar tweet kiya ki jalor Police ( Ahore ) fr â€¦,negative,neutral,0.6311,Hindi Negation (Missed Polarity Flip)
+5,@bomanirani #HNY2 ki announcement hogyi to humka iss gola me nhi rehna hum nikal jaounga dusre gola me,neutral,negative,0.3862,Neutral-Sentiment Ambiguity
+50,Unse toh achchi hai yeh cigarette... dil ko jalati hai magar hoton pe toh aati hai.....ðŸ’”ðŸ’”ðŸ’” SMOKING AND LOVE BOTH C â€¦ https://t.co/rx1AYhkDCA,neutral,positive,0.5344,Spelling Variation / Character Elongation
+185,RT @BuzzArtz Everytime #MamataFrustrated acts up this Bengali song Bhoot amaar Poot Petni Amaar Jhi Ram Lakkhan Sathe Ache Korbe ama â€¦,negative,positive,0.4012,Complex Code-Switching / Mixed Sentiment
+54,@priyankagandhi Esa koi exam nahi up govt. M jo in 2 saal m leak na huaa hu Ye to sarkar ki rajniti h ki na to ham â€¦ https://t.co/S1s6PxoHiJ,negative,neutral,0.4934,Hindi Negation (Missed Polarity Flip)
+6,RT @SharmakeF We're almost in the final three-days of Ramadan â€” very close to the finish line. So let's make sure that we double up our I â€¦,neutral,positive,0.6448,Neutral-Sentiment Ambiguity
+58,Maleeda Sugar Free-Cholestrol Free-Gluten Free Yug me log sonch bhi nahi sakte... ðŸ˜ https://t.co/8928pYsnwY,positive,neutral,0.6863,Spelling Variation / Character Elongation
+186,@ZakirKhan012 @jshilanjanm Bhaijaan brainwashed youth hai. Education and jobs can change all this. Once article 35A â€¦ https://t.co/bw9DrKYRJs,negative,positive,0.4773,Complex Code-Switching / Mixed Sentiment
+60,Aur godi media vale ko ab v aankhe nhi khuli to Desh rasatal me chala jayega. https://t.co/byeS5LVZQi,negative,neutral,0.4659,Hindi Negation (Missed Polarity Flip)
+19,@BaijnathMourya @mssirsa @AapkamanojS @ArvindKejriwal Haan Mai free Wi-Fi dunga free water dunga Sasti Bijli doo â€¦ https://t.co/d4uOIcb562,positive,neutral,0.8148,Neutral-Sentiment Ambiguity
+85,@HamidMirPAK Sir leave..... maza nae ha Pakistan ma kici b media journalist ka.. q k yahn koe such Bolta e nae,negative,neutral,0.4731,Spelling Variation / Character Elongation
+207,Even the enemities disappeared! Kisi k liye buri bhawna nhi. Lagta hai jaise past life ka kucc pending tha. Ab lena â€¦ https://t.co/sqAD1u7s07,positive,negative,0.4538,Complex Code-Switching / Mixed Sentiment
+98,RT @iamsaratsrk @bomanirani #HNY2 ki announcement hogyi to humka iss gola me nhi rehna hum nikal jaounga dusre gola me,negative,positive,0.3859,Hindi Negation (Missed Polarity Flip)
+37,Sir @ArvindKejriwal Aap bhi aisa drama kr do kam se km https://t.co/hbCFHG6tek,negative,neutral,0.486,Neutral-Sentiment Ambiguity
+93,@its _ fatiiiii Nhi yaar yahan tw 1year walo k bhe khatam ho gye thy,neutral,negative,0.5372,Spelling Variation / Character Elongation
+233,@chetan _ bhagat You need to go. You're harmful to the minds of Indians who can't distinguish good fiction from your books to save their life.,negative,positive,0.6623,Complex Code-Switching / Mixed Sentiment
+111,@dalitsamajindia @thewirehindi RSS k thee isliye Kyuki kabhi koi veerta ka kaam kartey nahi,negative,neutral,0.574,Hindi Negation (Missed Polarity Flip)
+39,RT @Pratima48816302 @GitaSKapoor Ye to aise apni details de rahe jaise iske Ghar ladki byahni ho humne apne.ðŸ˜‚ mansik santulan thik nhi iska â€¦,neutral,negative,0.8655,Neutral-Sentiment Ambiguity
+102,@lkopolice @Akhileshthakurs Ye hai fasism ka phla stape... 2022 target... Hehe.. Ensan bnaya hai eshwar ne...... Ldo aur mro,negative,neutral,0.5807,Spelling Variation / Character Elongation
+254,. Waqt Kabhi ek Jaise Nahi rehte Dushro ko rulane wale Khud bhi Roye Honge Kab â€¦ https://t.co/RQlFZ1NXqh,positive,negative,0.5262,Complex Code-Switching / Mixed Sentiment
+149,@SAMAATV Bilkul krskti hy. Agr tm jaise bikao media suport krain na k 1 match harne se izzat utaro.,negative,neutral,0.4461,Hindi Negation (Missed Polarity Flip)
+44,@QasimalirazaAli Ye such bolne walo ko mar sakte lekin such ko daba nhi sakhte or such ko jitna dabane ki koshish k â€¦ https://t.co/RNCi0uDlOd,neutral,negative,0.6753,Neutral-Sentiment Ambiguity
+125,RT @Radha _ singh0710 gussa ho sakta h bura hoo Par sabse jyada sachai ko gussa hi niklwaata h right or wrong???? @Shalin â€¦,positive,neutral,0.7748,Spelling Variation / Character Elongation
+258,Rahul Gandhi ka aane wala garibon ka bhavishya bana rahe the https://t.co/V61u85BqNC,positive,negative,0.4561,Complex Code-Switching / Mixed Sentiment
+173,Debates me aakar bhi kya ukhad lete hai fake news ki stories pe agenda chalate hai r tameez to hai Hi nahi kisi â€¦ https://t.co/sBSrDtIaZZ,negative,neutral,0.503,Hindi Negation (Missed Polarity Flip)
+45,Setting up for our HII audit workshop with matrons Thank you ISS for your support and super refreshments https://t.co/oQE5Fd2FBH,neutral,positive,0.8648,Neutral-Sentiment Ambiguity
+153,@_ Hsn _ Shah Nahi Noor!!! Aag to Pakistan team ne laga thi wo bhi first match me against wi. Kya khele hai!!! Wah!!!,positive,neutral,0.6773,Spelling Variation / Character Elongation
+310,@ArvindKejriwal Therez is page on facebook5saal krjriwalthat page has done most damage to u.. all full of antimodi â€¦ https://t.co/qILhq9kAPe,negative,positive,0.5981,Complex Code-Switching / Mixed Sentiment
+214,@Saurabh _ MLAgk Modi is so bad. Making ppl work n sweat. Aur @TajinderBagga tumhe AAP samaj kabhi maaf nahi karega..â€¦ https://t.co/bWdWLqb4TL,negative,positive,0.3948,Hindi Negation (Missed Polarity Flip)
+47,@Osamathemalang @BilalKhanWriter @fawadchaudhry Hahaha ye bnda hrksi ko kafir kehta rehta ha Apne ilawa isay koi musalman nazr hi niata,negative,neutral,0.4466,Neutral-Sentiment Ambiguity
+165,@RAShahzad1 Bhai jan lanat hai ap ki shakal pey.... agar sari family foreign national hai tu ap tweets b us country â€¦ https://t.co/dwAZBrILMF,neutral,negative,0.606,Spelling Variation / Character Elongation
+341,@AnooshaViews Lagta hai aap bhi IK ki aulad ho.. Sharam karo!! What u give is what u get in life.. Allah duniya me â€¦ https://t.co/3vIf5eROzG,negative,positive,0.4879,Complex Code-Switching / Mixed Sentiment
+296,@republic Bhosadchod it shud be free for weaker sections of society.. Bhadwa Sala na ghr ka na ghaat ka,negative,neutral,0.4162,Hindi Negation (Missed Polarity Flip)
+48,@nirahua1 @narendramodi @myogiadityanath @BJP4India jai jai jai AKHELISH jai SAMAJWAD PIR 5sal jhelna padega na â€¦ https://t.co/avmQMEXZDQ,positive,neutral,0.5237,Neutral-Sentiment Ambiguity
+197,@DrAliya7 Ham abhi enjoy Kar rahay hain 2 hour's bad sehri ka time ho GA Dubai me... Phir khud hi banai gain ðŸ¤£ðŸ¤£ðŸ¤£ðŸ¤£ðŸ˜‚ðŸ˜‚ðŸ˜‚ðŸ˜‚,positive,neutral,0.6923,Spelling Variation / Character Elongation
+424,@BBhuttoZardari Try as hard as you can but you are going to jail at the end. You can't save yourselfAbba and phopho.,negative,positive,0.6008,Complex Code-Switching / Mixed Sentiment
+312,@AcharyaPramodk Rahul ko PM isliye nhi banaya uss samay rahul baba k paas sarkar chalane wala dimag nhi tha aur man â€¦ https://t.co/0UP1uTWoyB,negative,neutral,0.6268,Hindi Negation (Missed Polarity Flip)
+49,JcdPs moulladad k hudood Goth faqeerabad me 3 chor chori karty hue Gaon walon k hath pakry gaye 1 Farar police ky hawaly. Nabi bux Pandrani,neutral,negative,0.8564,Neutral-Sentiment Ambiguity
+221,RT @_ Navu _ INSAN _ Good Night Bappu #MSG @Gurmeetramrahim ji waliooo sari rehmt brsaa deo jo niddkk apne pyar to machde aw na bappu ji onna â€¦,neutral,positive,0.6796,Spelling Variation / Character Elongation
+432,@smritiirani Bilkul sahi kaha aapne Jis tarah haar ke baad bhi aapne kaam karna nahi choda ye darshata hai ki Ka â€¦ https://t.co/DhI8EBkAm3,positive,negative,0.3741,Complex Code-Switching / Mixed Sentiment
+419,@hvgoenka In India logo ko baithne ki jagah nahi milti library kaha kholenge wo bhi public transport me,negative,neutral,0.5067,Hindi Negation (Missed Polarity Flip)
+52,@AlinaButtPti @MaryamNSharif @FiyazChohanPTI Alina butt fayyaz hasaan jsa kutta aur begarit admi ha he ni is dunia â€¦ https://t.co/91BQl9jx8Q,negative,neutral,0.4656,Neutral-Sentiment Ambiguity
+224,Ab to kisi bhi halat me hame visa nhi milega.... BC CC - @caatul05 @Saukarna @anshul _ m1 https://t.co/YfCCN5lSZx,neutral,negative,0.4808,Spelling Variation / Character Elongation
+485,@meena31296672 @ms395481 mere mulk aakar phir jana nahi chahti hain yeh udaas hain yeh kyun ki kal gaddi zroor ta â€¦ https://t.co/62Cur3essE,positive,negative,0.4381,Complex Code-Switching / Mixed Sentiment
+431,@callme _ yourDad @Joker _ 24k @superspy90s @captainforever4 @nooobmaster69 _ @Syedees @SaibKaskar tujy toh sister joke se fursat nahi khusree,negative,neutral,0.631,Hindi Negation (Missed Polarity Flip)
